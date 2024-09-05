@@ -15,11 +15,13 @@
         {
             "orcid": "0000-0002-8424-5712",
             "affiliation": "University Hospital of RWTH Aachen",
-            "name": "Wylensek, David"
+            "name": "Wylensek, David",
+            "type": "Researcher"
         },
         {
             "affiliation": "University Hospital of RWTH Aachen",
-            "name": "Nüchtern, Selina"
+            "name": "Nüchtern, Selina",
+            "type": "ProjectMember"
         }
     ],
 
