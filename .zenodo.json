@@ -1,0 +1,44 @@
+{
+        "creators": [
+        {
+            "orcid": "0000-0001-9832-2507",
+            "affiliation": "University Hospital of RWTH Aachen",
+            "name": "Pauvert, Charlie"
+        },
+        {
+            "orcid": "0000-0002-7229-5595",
+            "affiliation": "University Hospital of RWTH Aachen",
+            "name": "Clavel, Thomas"
+        }
+    ],
+	"contributors": [
+        {
+            "orcid": "0000-0002-8424-5712",
+            "affiliation": "University Hospital of RWTH Aachen",
+            "name": "Wylensek, David"
+        },
+        {
+            "affiliation": "University Hospital of RWTH Aachen",
+            "name": "Nüchtern, Selina"
+        }
+    ],
+
+    "license": "gpl-3.0-or-later",
+
+    "title": "fuzzy-octo-fiesta: the new framework",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.32614/CRAN.package.maldipickr",
+            "relation": "isSupplementedBy",
+            "resource_type": "software"
+        }
+    ],
+
+    "keywords": ["Cats", "Laser", "Behavior"],
+
+    "communities": [
+        {"identifier": "nfdi4microbiota"}
+    ]
+}
